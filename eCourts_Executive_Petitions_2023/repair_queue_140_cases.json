@@ -1,0 +1,2942 @@
+[
+  {
+    "case_number": "EX/2/2023",
+    "cnr": "KABC010342242022",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "02-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISMISSED",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/9/2023",
+    "cnr": "KABC010342952022",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "02-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE DELIVERY WARRANT",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/10/2023",
+    "cnr": "KABC010343082022",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "02-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE MOVABLE WARRANT",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/11/2023",
+    "cnr": "KABC010343092022",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "02-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/12/2023",
+    "cnr": "KABC010343102022",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "02-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE MOVABLE WARRANT",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/13/2023",
+    "cnr": "KABC010343112022",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "02-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/14/2023",
+    "cnr": "KABC010343122022",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "02-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE MOVABLE WARRANT",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/15/2023",
+    "cnr": "KABC010342612022",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "02-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/16/2023",
+    "cnr": "KABC010342962022",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "02-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/17/2023",
+    "cnr": "KABC010342472022",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "03-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/18/2023",
+    "cnr": "KABC010342492022",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "03-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/19/2023",
+    "cnr": "KABC010000382023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "03-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "AWAIT NOTICE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/20/2023",
+    "cnr": "KABC010000532023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "03-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/21/2023",
+    "cnr": "KABC010000622023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "03-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/22/2023",
+    "cnr": "KABC010000632023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "03-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/23/2023",
+    "cnr": "KABC010000672023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "03-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--SETTLED IN LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/24/2023",
+    "cnr": "KABC010000902023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "03-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--SETTLED OUTSIDE THE COURT",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/25/2023",
+    "cnr": "KABC010001252023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "03-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE CAUSE NOTICE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/26/2023",
+    "cnr": "KABC010001272023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "03-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/28/2023",
+    "cnr": "KABC010002062023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--SETTLED IN LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/29/2023",
+    "cnr": "KABC010002282023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/30/2023",
+    "cnr": "KABC010002312023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/31/2023",
+    "cnr": "KABC010002332023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/32/2023",
+    "cnr": "KABC010002482023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/33/2023",
+    "cnr": "KABC010002492023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/34/2023",
+    "cnr": "KABC010002872023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--TRANSFERED",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/35/2023",
+    "cnr": "KABC010001962023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "OBJECTIONS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/36/2023",
+    "cnr": "KABC010001972023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/37/2023",
+    "cnr": "KABC010001982023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/38/2023",
+    "cnr": "KABC010001992023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/39/2023",
+    "cnr": "KABC010002002023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/40/2023",
+    "cnr": "KABC010002012023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/42/2023",
+    "cnr": "KABC010002032023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "OBJECTIONS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/44/2023",
+    "cnr": "KABC010002172023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "COMPLIANCE OF OFFICE OBJECTIONS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/45/2023",
+    "cnr": "KABC010002672023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--TRANSFERED",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/46/2023",
+    "cnr": "KABC010002692023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--TRANSFERED",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/47/2023",
+    "cnr": "KABC010003162023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "04-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--SETTLED IN LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/49/2023",
+    "cnr": "KABC010003232023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE MOVABLE WARRANT",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/52/2023",
+    "cnr": "KABC010003622023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/53/2023",
+    "cnr": "KABC010003942023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Await Report",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/54/2023",
+    "cnr": "KABC010003952023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/55/2023",
+    "cnr": "KABC010004102023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/56/2023",
+    "cnr": "KABC010004142023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/57/2023",
+    "cnr": "KABC010004152023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/58/2023",
+    "cnr": "KABC010004302023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Await Report",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/66/2023",
+    "cnr": "KABC010003052023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/67/2023",
+    "cnr": "KABC010003062023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/68/2023",
+    "cnr": "KABC010003072023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/69/2023",
+    "cnr": "KABC010003082023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--SETTLED IN LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/72/2023",
+    "cnr": "KABC010004352023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "COMPLIANCE OF OFFICE OBJECTIONS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/73/2023",
+    "cnr": "KABC010004362023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE CAUSE NOTICE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/74/2023",
+    "cnr": "KABC010004862023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE CAUSE NOTICE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/81/2023",
+    "cnr": "KABC010005372023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/82/2023",
+    "cnr": "KABC010005842023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "05-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISMISSED",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/83/2023",
+    "cnr": "KABC010005592023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "06-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/84/2023",
+    "cnr": "KABC010005602023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "06-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/85/2023",
+    "cnr": "KABC010005612023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "06-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/86/2023",
+    "cnr": "KABC010005622023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "06-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/87/2023",
+    "cnr": "KABC010005632023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "06-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/88/2023",
+    "cnr": "KABC010005942023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "06-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "COMPLIANCE OF OFFICE OBJECTIONS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/89/2023",
+    "cnr": "KABC010005982023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "06-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/90/2023",
+    "cnr": "KABC010005952023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "06-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/95/2023",
+    "cnr": "KABC010006372023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "06-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/97/2023",
+    "cnr": "KABC010006532023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "06-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/102/2023",
+    "cnr": "KABC010006882023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "06-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "REFERRED TO LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/104/2023",
+    "cnr": "KABC010007192023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "07-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "For Payment",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/105/2023",
+    "cnr": "KABC010007362023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "07-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/106/2023",
+    "cnr": "KABC010005512023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "07-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "REFERRED TO LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/107/2023",
+    "cnr": "KABC010005522023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "07-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/108/2023",
+    "cnr": "KABC010005532023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "07-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISMISSED",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/109/2023",
+    "cnr": "KABC010005542023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "07-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "REFERRED TO LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/110/2023",
+    "cnr": "KABC010006002023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "07-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/111/2023",
+    "cnr": "KABC010006012023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "07-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "OBJECTIONS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/112/2023",
+    "cnr": "KABC010006672023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "07-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--SETTLED IN LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/113/2023",
+    "cnr": "KABC010006692023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "07-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Contested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/114/2023",
+    "cnr": "KABC010005672023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "07-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE CAUSE NOTICE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/115/2023",
+    "cnr": "KABC010005682023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "07-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE CAUSE NOTICE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/119/2023",
+    "cnr": "KABC010006722023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "09-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "REFERRED TO LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/120/2023",
+    "cnr": "KABC010005692023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "09-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE CAUSE NOTICE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/121/2023",
+    "cnr": "KABC010005702023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "09-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/122/2023",
+    "cnr": "KABC010005712023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "09-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/123/2023",
+    "cnr": "KABC010005732023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "09-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE CAUSE NOTICE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/124/2023",
+    "cnr": "KABC010005742023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "09-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE CAUSE NOTICE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/125/2023",
+    "cnr": "KABC010005752023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "09-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE CAUSE NOTICE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/126/2023",
+    "cnr": "KABC010007272023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "09-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "COMPLIANCE OF OFFICE OBJECTIONS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/127/2023",
+    "cnr": "KABC010007302023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "09-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE CAUSE NOTICE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/128/2023",
+    "cnr": "KABC010007322023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "09-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE MOVABLE WARRANT",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/129/2023",
+    "cnr": "KABC010007332023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "09-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/130/2023",
+    "cnr": "KABC010005502023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "09-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/131/2023",
+    "cnr": "KABC010005552023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "09-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "REFERRED TO LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/132/2023",
+    "cnr": "KABC010005562023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/133/2023",
+    "cnr": "KABC010005572023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DECREED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/134/2023",
+    "cnr": "KABC010005582023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/135/2023",
+    "cnr": "KABC010005762023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/136/2023",
+    "cnr": "KABC010005772023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/137/2023",
+    "cnr": "KABC010005792023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "COMPLIANCE OF OFFICE OBJECTIONS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/138/2023",
+    "cnr": "KABC010005802023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "COMPLIANCE OF OFFICE OBJECTIONS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/139/2023",
+    "cnr": "KABC010005812023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "COMPLIANCE OF OFFICE OBJECTIONS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/140/2023",
+    "cnr": "KABC010005832023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "COMPLIANCE OF OFFICE OBJECTIONS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/141/2023",
+    "cnr": "KABC010008552023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--SETTLED BY ADR",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/142/2023",
+    "cnr": "KABC010008562023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--SETTLED IN LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/143/2023",
+    "cnr": "KABC010008582023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/144/2023",
+    "cnr": "KABC010008592023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/145/2023",
+    "cnr": "KABC010008602023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/147/2023",
+    "cnr": "KABC010008832023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/149/2023",
+    "cnr": "KABC010009252023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "REFERRED TO LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/151/2023",
+    "cnr": "KABC010009502023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/152/2023",
+    "cnr": "KABC010009512023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/153/2023",
+    "cnr": "KABC010009912023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "BALANCE BY",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/155/2023",
+    "cnr": "KABC010009962023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS BY",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/156/2023",
+    "cnr": "KABC010010002023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/157/2023",
+    "cnr": "KABC010010052023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "10-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/158/2023",
+    "cnr": "KABC010010312023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "11-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "REFERRED TO LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/159/2023",
+    "cnr": "KABC010011022023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "12-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/161/2023",
+    "cnr": "KABC010006702023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "12-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/162/2023",
+    "cnr": "KABC010011822023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/163/2023",
+    "cnr": "KABC010011942023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE CAUSE NOTICE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/164/2023",
+    "cnr": "KABC010011952023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/165/2023",
+    "cnr": "KABC010012052023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DECREE SATISFIED",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/101/2023",
+    "cnr": "KABC010006822023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "06-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "REFERRED TO LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/166/2023",
+    "cnr": "KABC010012082023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "REFERRED TO LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/167/2023",
+    "cnr": "KABC010012102023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/168/2023",
+    "cnr": "KABC010012122023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "REFERRED TO LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/169/2023",
+    "cnr": "KABC010012132023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DECREE SATISFIED",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/171/2023",
+    "cnr": "KABC010012782023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/173/2023",
+    "cnr": "KABC010012922023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/174/2023",
+    "cnr": "KABC010012942023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE MOVABLE WARRANT",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/175/2023",
+    "cnr": "KABC010012952023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/176/2023",
+    "cnr": "KABC010012962023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DISPOSED OTHERWISE",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/177/2023",
+    "cnr": "KABC010012972023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/178/2023",
+    "cnr": "KABC010012992023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "REFERRED TO LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/179/2023",
+    "cnr": "KABC010013002023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DECREE SATISFIED",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/180/2023",
+    "cnr": "KABC010013012023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "Uncontested--DECREE SATISFIED",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/181/2023",
+    "cnr": "KABC010013022023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE MOVABLE WARRANT",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/182/2023",
+    "cnr": "KABC010013032023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE MOVABLE WARRANT",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/183/2023",
+    "cnr": "KABC010013042023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/184/2023",
+    "cnr": "KABC010013052023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/185/2023",
+    "cnr": "KABC010013362023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "REFERRED TO LOK ADALATH",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/186/2023",
+    "cnr": "KABC010013382023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  },
+  {
+    "case_number": "EX/187/2023",
+    "cnr": "KABC010013392023",
+    "repaired_fields": {
+      "registration_date": {
+        "old": "",
+        "new": "13-01-2023",
+        "source": "HTML Snapshot"
+      },
+      "sub_stage": {
+        "old": "",
+        "new": "STEPS",
+        "source": "HTML Snapshot"
+      },
+      "order_links": {
+        "old": "",
+        "new": "Needs Live Rescrape",
+        "source": "eCourts Live"
+      }
+    }
+  }
+]

@@ -1,0 +1,442 @@
+# 140-Case Zero-Defect Audit & Repair Report
+
+## SUMMARY
+- **Total cases audited**: 140
+- **Cases with missing/incorrect fields**: 140
+- **Cases requiring live rescrape**: 140
+- **Cases requiring no repair**: 0
+
+## Missing Fields Grouped By Name
+- **Registration Date**: 140
+- **Sub Stage**: 140
+- **Order Link**: 1849
+- **Respondent Advocate**: 0
+- **Transfers**: 0
+
+## Exact Case Numbers Requiring Repair
+EX/10/2023, EX/101/2023, EX/102/2023, EX/104/2023, EX/105/2023, EX/106/2023, EX/107/2023, EX/108/2023, EX/109/2023, EX/11/2023, EX/110/2023, EX/111/2023, EX/112/2023, EX/113/2023, EX/114/2023, EX/115/2023, EX/119/2023, EX/12/2023, EX/120/2023, EX/121/2023, EX/122/2023, EX/123/2023, EX/124/2023, EX/125/2023, EX/126/2023, EX/127/2023, EX/128/2023, EX/129/2023, EX/13/2023, EX/130/2023, EX/131/2023, EX/132/2023, EX/133/2023, EX/134/2023, EX/135/2023, EX/136/2023, EX/137/2023, EX/138/2023, EX/139/2023, EX/14/2023, EX/140/2023, EX/141/2023, EX/142/2023, EX/143/2023, EX/144/2023, EX/145/2023, EX/147/2023, EX/149/2023, EX/15/2023, EX/151/2023, EX/152/2023, EX/153/2023, EX/155/2023, EX/156/2023, EX/157/2023, EX/158/2023, EX/159/2023, EX/16/2023, EX/161/2023, EX/162/2023, EX/163/2023, EX/164/2023, EX/165/2023, EX/166/2023, EX/167/2023, EX/168/2023, EX/169/2023, EX/17/2023, EX/171/2023, EX/173/2023, EX/174/2023, EX/175/2023, EX/176/2023, EX/177/2023, EX/178/2023, EX/179/2023, EX/18/2023, EX/180/2023, EX/181/2023, EX/182/2023, EX/183/2023, EX/184/2023, EX/185/2023, EX/186/2023, EX/187/2023, EX/19/2023, EX/2/2023, EX/20/2023, EX/21/2023, EX/22/2023, EX/23/2023, EX/24/2023, EX/25/2023, EX/26/2023, EX/28/2023, EX/29/2023, EX/30/2023, EX/31/2023, EX/32/2023, EX/33/2023, EX/34/2023, EX/35/2023, EX/36/2023, EX/37/2023, EX/38/2023, EX/39/2023, EX/40/2023, EX/42/2023, EX/44/2023, EX/45/2023, EX/46/2023, EX/47/2023, EX/49/2023, EX/52/2023, EX/53/2023, EX/54/2023, EX/55/2023, EX/56/2023, EX/57/2023, EX/58/2023, EX/66/2023, EX/67/2023, EX/68/2023, EX/69/2023, EX/72/2023, EX/73/2023, EX/74/2023, EX/81/2023, EX/82/2023, EX/83/2023, EX/84/2023, EX/85/2023, EX/86/2023, EX/87/2023, EX/88/2023, EX/89/2023, EX/9/2023, EX/90/2023, EX/95/2023, EX/97/2023
+
+## Detailed Repairs Log
+
+| Case | CNR | Field | Old Value | New Value | Source |
+|------|-----|-------|-----------|-----------|--------|
+| EX/2/2023 | KABC010342242022 | Registration Date |  | 02-01-2023 | HTML Snapshot |
+| EX/2/2023 | KABC010342242022 | Sub Stage |  | Uncontested--DISMISSED | HTML Snapshot |
+| EX/2/2023 | KABC010342242022 | Order Links |  | 32 links need resolving | eCourts Live |
+| EX/9/2023 | KABC010342952022 | Registration Date |  | 02-01-2023 | HTML Snapshot |
+| EX/9/2023 | KABC010342952022 | Sub Stage |  | ISSUE DELIVERY WARRANT | HTML Snapshot |
+| EX/9/2023 | KABC010342952022 | Order Links |  | 14 links need resolving | eCourts Live |
+| EX/10/2023 | KABC010343082022 | Registration Date |  | 02-01-2023 | HTML Snapshot |
+| EX/10/2023 | KABC010343082022 | Sub Stage |  | ISSUE MOVABLE WARRANT | HTML Snapshot |
+| EX/10/2023 | KABC010343082022 | Order Links |  | 15 links need resolving | eCourts Live |
+| EX/11/2023 | KABC010343092022 | Registration Date |  | 02-01-2023 | HTML Snapshot |
+| EX/11/2023 | KABC010343092022 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/11/2023 | KABC010343092022 | Order Links |  | 9 links need resolving | eCourts Live |
+| EX/12/2023 | KABC010343102022 | Registration Date |  | 02-01-2023 | HTML Snapshot |
+| EX/12/2023 | KABC010343102022 | Sub Stage |  | ISSUE MOVABLE WARRANT | HTML Snapshot |
+| EX/12/2023 | KABC010343102022 | Order Links |  | 18 links need resolving | eCourts Live |
+| EX/13/2023 | KABC010343112022 | Registration Date |  | 02-01-2023 | HTML Snapshot |
+| EX/13/2023 | KABC010343112022 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/13/2023 | KABC010343112022 | Order Links |  | 12 links need resolving | eCourts Live |
+| EX/14/2023 | KABC010343122022 | Registration Date |  | 02-01-2023 | HTML Snapshot |
+| EX/14/2023 | KABC010343122022 | Sub Stage |  | ISSUE MOVABLE WARRANT | HTML Snapshot |
+| EX/14/2023 | KABC010343122022 | Order Links |  | 19 links need resolving | eCourts Live |
+| EX/15/2023 | KABC010342612022 | Registration Date |  | 02-01-2023 | HTML Snapshot |
+| EX/15/2023 | KABC010342612022 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/15/2023 | KABC010342612022 | Order Links |  | 3 links need resolving | eCourts Live |
+| EX/16/2023 | KABC010342962022 | Registration Date |  | 02-01-2023 | HTML Snapshot |
+| EX/16/2023 | KABC010342962022 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/16/2023 | KABC010342962022 | Order Links |  | 21 links need resolving | eCourts Live |
+| EX/17/2023 | KABC010342472022 | Registration Date |  | 03-01-2023 | HTML Snapshot |
+| EX/17/2023 | KABC010342472022 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/17/2023 | KABC010342472022 | Order Links |  | 21 links need resolving | eCourts Live |
+| EX/18/2023 | KABC010342492022 | Registration Date |  | 03-01-2023 | HTML Snapshot |
+| EX/18/2023 | KABC010342492022 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/18/2023 | KABC010342492022 | Order Links |  | 21 links need resolving | eCourts Live |
+| EX/19/2023 | KABC010000382023 | Registration Date |  | 03-01-2023 | HTML Snapshot |
+| EX/19/2023 | KABC010000382023 | Sub Stage |  | AWAIT NOTICE | HTML Snapshot |
+| EX/19/2023 | KABC010000382023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/20/2023 | KABC010000532023 | Registration Date |  | 03-01-2023 | HTML Snapshot |
+| EX/20/2023 | KABC010000532023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/20/2023 | KABC010000532023 | Order Links |  | 15 links need resolving | eCourts Live |
+| EX/21/2023 | KABC010000622023 | Registration Date |  | 03-01-2023 | HTML Snapshot |
+| EX/21/2023 | KABC010000622023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/21/2023 | KABC010000622023 | Order Links |  | 29 links need resolving | eCourts Live |
+| EX/22/2023 | KABC010000632023 | Registration Date |  | 03-01-2023 | HTML Snapshot |
+| EX/22/2023 | KABC010000632023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/22/2023 | KABC010000632023 | Order Links |  | 6 links need resolving | eCourts Live |
+| EX/23/2023 | KABC010000672023 | Registration Date |  | 03-01-2023 | HTML Snapshot |
+| EX/23/2023 | KABC010000672023 | Sub Stage |  | Uncontested--SETTLED IN LOK ADALATH | HTML Snapshot |
+| EX/23/2023 | KABC010000672023 | Order Links |  | 14 links need resolving | eCourts Live |
+| EX/24/2023 | KABC010000902023 | Registration Date |  | 03-01-2023 | HTML Snapshot |
+| EX/24/2023 | KABC010000902023 | Sub Stage |  | Uncontested--SETTLED OUTSIDE THE COURT | HTML Snapshot |
+| EX/24/2023 | KABC010000902023 | Order Links |  | 4 links need resolving | eCourts Live |
+| EX/25/2023 | KABC010001252023 | Registration Date |  | 03-01-2023 | HTML Snapshot |
+| EX/25/2023 | KABC010001252023 | Sub Stage |  | ISSUE CAUSE NOTICE | HTML Snapshot |
+| EX/25/2023 | KABC010001252023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/26/2023 | KABC010001272023 | Registration Date |  | 03-01-2023 | HTML Snapshot |
+| EX/26/2023 | KABC010001272023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/26/2023 | KABC010001272023 | Order Links |  | 16 links need resolving | eCourts Live |
+| EX/28/2023 | KABC010002062023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/28/2023 | KABC010002062023 | Sub Stage |  | Uncontested--SETTLED IN LOK ADALATH | HTML Snapshot |
+| EX/28/2023 | KABC010002062023 | Order Links |  | 13 links need resolving | eCourts Live |
+| EX/29/2023 | KABC010002282023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/29/2023 | KABC010002282023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/29/2023 | KABC010002282023 | Order Links |  | 12 links need resolving | eCourts Live |
+| EX/30/2023 | KABC010002312023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/30/2023 | KABC010002312023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/30/2023 | KABC010002312023 | Order Links |  | 12 links need resolving | eCourts Live |
+| EX/31/2023 | KABC010002332023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/31/2023 | KABC010002332023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/31/2023 | KABC010002332023 | Order Links |  | 12 links need resolving | eCourts Live |
+| EX/32/2023 | KABC010002482023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/32/2023 | KABC010002482023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/32/2023 | KABC010002482023 | Order Links |  | 10 links need resolving | eCourts Live |
+| EX/33/2023 | KABC010002492023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/33/2023 | KABC010002492023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/33/2023 | KABC010002492023 | Order Links |  | 21 links need resolving | eCourts Live |
+| EX/34/2023 | KABC010002872023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/34/2023 | KABC010002872023 | Sub Stage |  | Uncontested--TRANSFERED | HTML Snapshot |
+| EX/34/2023 | KABC010002872023 | Order Links |  | 26 links need resolving | eCourts Live |
+| EX/35/2023 | KABC010001962023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/35/2023 | KABC010001962023 | Sub Stage |  | OBJECTIONS | HTML Snapshot |
+| EX/35/2023 | KABC010001962023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/36/2023 | KABC010001972023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/36/2023 | KABC010001972023 | Sub Stage |  | ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES | HTML Snapshot |
+| EX/36/2023 | KABC010001972023 | Order Links |  | 4 links need resolving | eCourts Live |
+| EX/37/2023 | KABC010001982023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/37/2023 | KABC010001982023 | Sub Stage |  | ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES | HTML Snapshot |
+| EX/37/2023 | KABC010001982023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/38/2023 | KABC010001992023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/38/2023 | KABC010001992023 | Sub Stage |  | ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES | HTML Snapshot |
+| EX/38/2023 | KABC010001992023 | Order Links |  | 5 links need resolving | eCourts Live |
+| EX/39/2023 | KABC010002002023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/39/2023 | KABC010002002023 | Sub Stage |  | ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES | HTML Snapshot |
+| EX/39/2023 | KABC010002002023 | Order Links |  | 6 links need resolving | eCourts Live |
+| EX/40/2023 | KABC010002012023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/40/2023 | KABC010002012023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/40/2023 | KABC010002012023 | Order Links |  | 9 links need resolving | eCourts Live |
+| EX/42/2023 | KABC010002032023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/42/2023 | KABC010002032023 | Sub Stage |  | OBJECTIONS | HTML Snapshot |
+| EX/42/2023 | KABC010002032023 | Order Links |  | 8 links need resolving | eCourts Live |
+| EX/44/2023 | KABC010002172023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/44/2023 | KABC010002172023 | Sub Stage |  | COMPLIANCE OF OFFICE OBJECTIONS | HTML Snapshot |
+| EX/44/2023 | KABC010002172023 | Order Links |  | 3 links need resolving | eCourts Live |
+| EX/45/2023 | KABC010002672023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/45/2023 | KABC010002672023 | Sub Stage |  | Uncontested--TRANSFERED | HTML Snapshot |
+| EX/45/2023 | KABC010002672023 | Order Links |  | 1 links need resolving | eCourts Live |
+| EX/46/2023 | KABC010002692023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/46/2023 | KABC010002692023 | Sub Stage |  | Uncontested--TRANSFERED | HTML Snapshot |
+| EX/46/2023 | KABC010002692023 | Order Links |  | 1 links need resolving | eCourts Live |
+| EX/47/2023 | KABC010003162023 | Registration Date |  | 04-01-2023 | HTML Snapshot |
+| EX/47/2023 | KABC010003162023 | Sub Stage |  | Uncontested--SETTLED IN LOK ADALATH | HTML Snapshot |
+| EX/47/2023 | KABC010003162023 | Order Links |  | 16 links need resolving | eCourts Live |
+| EX/49/2023 | KABC010003232023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/49/2023 | KABC010003232023 | Sub Stage |  | ISSUE MOVABLE WARRANT | HTML Snapshot |
+| EX/49/2023 | KABC010003232023 | Order Links |  | 16 links need resolving | eCourts Live |
+| EX/52/2023 | KABC010003622023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/52/2023 | KABC010003622023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/52/2023 | KABC010003622023 | Order Links |  | 11 links need resolving | eCourts Live |
+| EX/53/2023 | KABC010003942023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/53/2023 | KABC010003942023 | Sub Stage |  | Await Report | HTML Snapshot |
+| EX/53/2023 | KABC010003942023 | Order Links |  | 8 links need resolving | eCourts Live |
+| EX/54/2023 | KABC010003952023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/54/2023 | KABC010003952023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/54/2023 | KABC010003952023 | Order Links |  | 20 links need resolving | eCourts Live |
+| EX/55/2023 | KABC010004102023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/55/2023 | KABC010004102023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/55/2023 | KABC010004102023 | Order Links |  | 12 links need resolving | eCourts Live |
+| EX/56/2023 | KABC010004142023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/56/2023 | KABC010004142023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/56/2023 | KABC010004142023 | Order Links |  | 12 links need resolving | eCourts Live |
+| EX/57/2023 | KABC010004152023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/57/2023 | KABC010004152023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/57/2023 | KABC010004152023 | Order Links |  | 12 links need resolving | eCourts Live |
+| EX/58/2023 | KABC010004302023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/58/2023 | KABC010004302023 | Sub Stage |  | Await Report | HTML Snapshot |
+| EX/58/2023 | KABC010004302023 | Order Links |  | 9 links need resolving | eCourts Live |
+| EX/66/2023 | KABC010003052023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/66/2023 | KABC010003052023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/66/2023 | KABC010003052023 | Order Links |  | 16 links need resolving | eCourts Live |
+| EX/67/2023 | KABC010003062023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/67/2023 | KABC010003062023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/67/2023 | KABC010003062023 | Order Links |  | 15 links need resolving | eCourts Live |
+| EX/68/2023 | KABC010003072023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/68/2023 | KABC010003072023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/68/2023 | KABC010003072023 | Order Links |  | 18 links need resolving | eCourts Live |
+| EX/69/2023 | KABC010003082023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/69/2023 | KABC010003082023 | Sub Stage |  | Uncontested--SETTLED IN LOK ADALATH | HTML Snapshot |
+| EX/69/2023 | KABC010003082023 | Order Links |  | 20 links need resolving | eCourts Live |
+| EX/72/2023 | KABC010004352023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/72/2023 | KABC010004352023 | Sub Stage |  | COMPLIANCE OF OFFICE OBJECTIONS | HTML Snapshot |
+| EX/72/2023 | KABC010004352023 | Order Links |  | 5 links need resolving | eCourts Live |
+| EX/73/2023 | KABC010004362023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/73/2023 | KABC010004362023 | Sub Stage |  | ISSUE CAUSE NOTICE | HTML Snapshot |
+| EX/73/2023 | KABC010004362023 | Order Links |  | 6 links need resolving | eCourts Live |
+| EX/74/2023 | KABC010004862023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/74/2023 | KABC010004862023 | Sub Stage |  | ISSUE CAUSE NOTICE | HTML Snapshot |
+| EX/74/2023 | KABC010004862023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/81/2023 | KABC010005372023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/81/2023 | KABC010005372023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/81/2023 | KABC010005372023 | Order Links |  | 8 links need resolving | eCourts Live |
+| EX/82/2023 | KABC010005842023 | Registration Date |  | 05-01-2023 | HTML Snapshot |
+| EX/82/2023 | KABC010005842023 | Sub Stage |  | Uncontested--DISMISSED | HTML Snapshot |
+| EX/82/2023 | KABC010005842023 | Order Links |  | 14 links need resolving | eCourts Live |
+| EX/83/2023 | KABC010005592023 | Registration Date |  | 06-01-2023 | HTML Snapshot |
+| EX/83/2023 | KABC010005592023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/83/2023 | KABC010005592023 | Order Links |  | 13 links need resolving | eCourts Live |
+| EX/84/2023 | KABC010005602023 | Registration Date |  | 06-01-2023 | HTML Snapshot |
+| EX/84/2023 | KABC010005602023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/84/2023 | KABC010005602023 | Order Links |  | 13 links need resolving | eCourts Live |
+| EX/85/2023 | KABC010005612023 | Registration Date |  | 06-01-2023 | HTML Snapshot |
+| EX/85/2023 | KABC010005612023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/85/2023 | KABC010005612023 | Order Links |  | 13 links need resolving | eCourts Live |
+| EX/86/2023 | KABC010005622023 | Registration Date |  | 06-01-2023 | HTML Snapshot |
+| EX/86/2023 | KABC010005622023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/86/2023 | KABC010005622023 | Order Links |  | 15 links need resolving | eCourts Live |
+| EX/87/2023 | KABC010005632023 | Registration Date |  | 06-01-2023 | HTML Snapshot |
+| EX/87/2023 | KABC010005632023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/87/2023 | KABC010005632023 | Order Links |  | 15 links need resolving | eCourts Live |
+| EX/88/2023 | KABC010005942023 | Registration Date |  | 06-01-2023 | HTML Snapshot |
+| EX/88/2023 | KABC010005942023 | Sub Stage |  | COMPLIANCE OF OFFICE OBJECTIONS | HTML Snapshot |
+| EX/88/2023 | KABC010005942023 | Order Links |  | 30 links need resolving | eCourts Live |
+| EX/89/2023 | KABC010005982023 | Registration Date |  | 06-01-2023 | HTML Snapshot |
+| EX/89/2023 | KABC010005982023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/89/2023 | KABC010005982023 | Order Links |  | 12 links need resolving | eCourts Live |
+| EX/90/2023 | KABC010005952023 | Registration Date |  | 06-01-2023 | HTML Snapshot |
+| EX/90/2023 | KABC010005952023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/90/2023 | KABC010005952023 | Order Links |  | 18 links need resolving | eCourts Live |
+| EX/95/2023 | KABC010006372023 | Registration Date |  | 06-01-2023 | HTML Snapshot |
+| EX/95/2023 | KABC010006372023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/95/2023 | KABC010006372023 | Order Links |  | 10 links need resolving | eCourts Live |
+| EX/97/2023 | KABC010006532023 | Registration Date |  | 06-01-2023 | HTML Snapshot |
+| EX/97/2023 | KABC010006532023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/97/2023 | KABC010006532023 | Order Links |  | 28 links need resolving | eCourts Live |
+| EX/102/2023 | KABC010006882023 | Registration Date |  | 06-01-2023 | HTML Snapshot |
+| EX/102/2023 | KABC010006882023 | Sub Stage |  | REFERRED TO LOK ADALATH | HTML Snapshot |
+| EX/102/2023 | KABC010006882023 | Order Links |  | 11 links need resolving | eCourts Live |
+| EX/104/2023 | KABC010007192023 | Registration Date |  | 07-01-2023 | HTML Snapshot |
+| EX/104/2023 | KABC010007192023 | Sub Stage |  | For Payment | HTML Snapshot |
+| EX/104/2023 | KABC010007192023 | Order Links |  | 45 links need resolving | eCourts Live |
+| EX/105/2023 | KABC010007362023 | Registration Date |  | 07-01-2023 | HTML Snapshot |
+| EX/105/2023 | KABC010007362023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/105/2023 | KABC010007362023 | Order Links |  | 8 links need resolving | eCourts Live |
+| EX/106/2023 | KABC010005512023 | Registration Date |  | 07-01-2023 | HTML Snapshot |
+| EX/106/2023 | KABC010005512023 | Sub Stage |  | REFERRED TO LOK ADALATH | HTML Snapshot |
+| EX/106/2023 | KABC010005512023 | Order Links |  | 6 links need resolving | eCourts Live |
+| EX/107/2023 | KABC010005522023 | Registration Date |  | 07-01-2023 | HTML Snapshot |
+| EX/107/2023 | KABC010005522023 | Sub Stage |  | ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES | HTML Snapshot |
+| EX/107/2023 | KABC010005522023 | Order Links |  | 9 links need resolving | eCourts Live |
+| EX/108/2023 | KABC010005532023 | Registration Date |  | 07-01-2023 | HTML Snapshot |
+| EX/108/2023 | KABC010005532023 | Sub Stage |  | Uncontested--DISMISSED | HTML Snapshot |
+| EX/108/2023 | KABC010005532023 | Order Links |  | 5 links need resolving | eCourts Live |
+| EX/109/2023 | KABC010005542023 | Registration Date |  | 07-01-2023 | HTML Snapshot |
+| EX/109/2023 | KABC010005542023 | Sub Stage |  | REFERRED TO LOK ADALATH | HTML Snapshot |
+| EX/109/2023 | KABC010005542023 | Order Links |  | 15 links need resolving | eCourts Live |
+| EX/110/2023 | KABC010006002023 | Registration Date |  | 07-01-2023 | HTML Snapshot |
+| EX/110/2023 | KABC010006002023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/110/2023 | KABC010006002023 | Order Links |  | 16 links need resolving | eCourts Live |
+| EX/111/2023 | KABC010006012023 | Registration Date |  | 07-01-2023 | HTML Snapshot |
+| EX/111/2023 | KABC010006012023 | Sub Stage |  | OBJECTIONS | HTML Snapshot |
+| EX/111/2023 | KABC010006012023 | Order Links |  | 20 links need resolving | eCourts Live |
+| EX/112/2023 | KABC010006672023 | Registration Date |  | 07-01-2023 | HTML Snapshot |
+| EX/112/2023 | KABC010006672023 | Sub Stage |  | Uncontested--SETTLED IN LOK ADALATH | HTML Snapshot |
+| EX/112/2023 | KABC010006672023 | Order Links |  | 11 links need resolving | eCourts Live |
+| EX/113/2023 | KABC010006692023 | Registration Date |  | 07-01-2023 | HTML Snapshot |
+| EX/113/2023 | KABC010006692023 | Sub Stage |  | Contested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/113/2023 | KABC010006692023 | Order Links |  | 5 links need resolving | eCourts Live |
+| EX/114/2023 | KABC010005672023 | Registration Date |  | 07-01-2023 | HTML Snapshot |
+| EX/114/2023 | KABC010005672023 | Sub Stage |  | ISSUE CAUSE NOTICE | HTML Snapshot |
+| EX/114/2023 | KABC010005672023 | Order Links |  | 16 links need resolving | eCourts Live |
+| EX/115/2023 | KABC010005682023 | Registration Date |  | 07-01-2023 | HTML Snapshot |
+| EX/115/2023 | KABC010005682023 | Sub Stage |  | ISSUE CAUSE NOTICE | HTML Snapshot |
+| EX/115/2023 | KABC010005682023 | Order Links |  | 16 links need resolving | eCourts Live |
+| EX/119/2023 | KABC010006722023 | Registration Date |  | 09-01-2023 | HTML Snapshot |
+| EX/119/2023 | KABC010006722023 | Sub Stage |  | REFERRED TO LOK ADALATH | HTML Snapshot |
+| EX/119/2023 | KABC010006722023 | Order Links |  | 8 links need resolving | eCourts Live |
+| EX/120/2023 | KABC010005692023 | Registration Date |  | 09-01-2023 | HTML Snapshot |
+| EX/120/2023 | KABC010005692023 | Sub Stage |  | ISSUE CAUSE NOTICE | HTML Snapshot |
+| EX/120/2023 | KABC010005692023 | Order Links |  | 19 links need resolving | eCourts Live |
+| EX/121/2023 | KABC010005702023 | Registration Date |  | 09-01-2023 | HTML Snapshot |
+| EX/121/2023 | KABC010005702023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/121/2023 | KABC010005702023 | Order Links |  | 20 links need resolving | eCourts Live |
+| EX/122/2023 | KABC010005712023 | Registration Date |  | 09-01-2023 | HTML Snapshot |
+| EX/122/2023 | KABC010005712023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/122/2023 | KABC010005712023 | Order Links |  | 19 links need resolving | eCourts Live |
+| EX/123/2023 | KABC010005732023 | Registration Date |  | 09-01-2023 | HTML Snapshot |
+| EX/123/2023 | KABC010005732023 | Sub Stage |  | ISSUE CAUSE NOTICE | HTML Snapshot |
+| EX/123/2023 | KABC010005732023 | Order Links |  | 17 links need resolving | eCourts Live |
+| EX/124/2023 | KABC010005742023 | Registration Date |  | 09-01-2023 | HTML Snapshot |
+| EX/124/2023 | KABC010005742023 | Sub Stage |  | ISSUE CAUSE NOTICE | HTML Snapshot |
+| EX/124/2023 | KABC010005742023 | Order Links |  | 17 links need resolving | eCourts Live |
+| EX/125/2023 | KABC010005752023 | Registration Date |  | 09-01-2023 | HTML Snapshot |
+| EX/125/2023 | KABC010005752023 | Sub Stage |  | ISSUE CAUSE NOTICE | HTML Snapshot |
+| EX/125/2023 | KABC010005752023 | Order Links |  | 17 links need resolving | eCourts Live |
+| EX/126/2023 | KABC010007272023 | Registration Date |  | 09-01-2023 | HTML Snapshot |
+| EX/126/2023 | KABC010007272023 | Sub Stage |  | COMPLIANCE OF OFFICE OBJECTIONS | HTML Snapshot |
+| EX/126/2023 | KABC010007272023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/127/2023 | KABC010007302023 | Registration Date |  | 09-01-2023 | HTML Snapshot |
+| EX/127/2023 | KABC010007302023 | Sub Stage |  | ISSUE CAUSE NOTICE | HTML Snapshot |
+| EX/127/2023 | KABC010007302023 | Order Links |  | 13 links need resolving | eCourts Live |
+| EX/128/2023 | KABC010007322023 | Registration Date |  | 09-01-2023 | HTML Snapshot |
+| EX/128/2023 | KABC010007322023 | Sub Stage |  | ISSUE MOVABLE WARRANT | HTML Snapshot |
+| EX/128/2023 | KABC010007322023 | Order Links |  | 21 links need resolving | eCourts Live |
+| EX/129/2023 | KABC010007332023 | Registration Date |  | 09-01-2023 | HTML Snapshot |
+| EX/129/2023 | KABC010007332023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/129/2023 | KABC010007332023 | Order Links |  | 24 links need resolving | eCourts Live |
+| EX/130/2023 | KABC010005502023 | Registration Date |  | 09-01-2023 | HTML Snapshot |
+| EX/130/2023 | KABC010005502023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/130/2023 | KABC010005502023 | Order Links |  | 26 links need resolving | eCourts Live |
+| EX/131/2023 | KABC010005552023 | Registration Date |  | 09-01-2023 | HTML Snapshot |
+| EX/131/2023 | KABC010005552023 | Sub Stage |  | REFERRED TO LOK ADALATH | HTML Snapshot |
+| EX/131/2023 | KABC010005552023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/132/2023 | KABC010005562023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/132/2023 | KABC010005562023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/132/2023 | KABC010005562023 | Order Links |  | 22 links need resolving | eCourts Live |
+| EX/133/2023 | KABC010005572023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/133/2023 | KABC010005572023 | Sub Stage |  | Uncontested--DECREED OTHERWISE | HTML Snapshot |
+| EX/133/2023 | KABC010005572023 | Order Links |  | 33 links need resolving | eCourts Live |
+| EX/134/2023 | KABC010005582023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/134/2023 | KABC010005582023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/134/2023 | KABC010005582023 | Order Links |  | 3 links need resolving | eCourts Live |
+| EX/135/2023 | KABC010005762023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/135/2023 | KABC010005762023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/135/2023 | KABC010005762023 | Order Links |  | 16 links need resolving | eCourts Live |
+| EX/136/2023 | KABC010005772023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/136/2023 | KABC010005772023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/136/2023 | KABC010005772023 | Order Links |  | 18 links need resolving | eCourts Live |
+| EX/137/2023 | KABC010005792023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/137/2023 | KABC010005792023 | Sub Stage |  | COMPLIANCE OF OFFICE OBJECTIONS | HTML Snapshot |
+| EX/137/2023 | KABC010005792023 | Order Links |  | 10 links need resolving | eCourts Live |
+| EX/138/2023 | KABC010005802023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/138/2023 | KABC010005802023 | Sub Stage |  | COMPLIANCE OF OFFICE OBJECTIONS | HTML Snapshot |
+| EX/138/2023 | KABC010005802023 | Order Links |  | 10 links need resolving | eCourts Live |
+| EX/139/2023 | KABC010005812023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/139/2023 | KABC010005812023 | Sub Stage |  | COMPLIANCE OF OFFICE OBJECTIONS | HTML Snapshot |
+| EX/139/2023 | KABC010005812023 | Order Links |  | 10 links need resolving | eCourts Live |
+| EX/140/2023 | KABC010005832023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/140/2023 | KABC010005832023 | Sub Stage |  | COMPLIANCE OF OFFICE OBJECTIONS | HTML Snapshot |
+| EX/140/2023 | KABC010005832023 | Order Links |  | 10 links need resolving | eCourts Live |
+| EX/141/2023 | KABC010008552023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/141/2023 | KABC010008552023 | Sub Stage |  | Uncontested--SETTLED BY ADR | HTML Snapshot |
+| EX/141/2023 | KABC010008552023 | Order Links |  | 22 links need resolving | eCourts Live |
+| EX/142/2023 | KABC010008562023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/142/2023 | KABC010008562023 | Sub Stage |  | Uncontested--SETTLED IN LOK ADALATH | HTML Snapshot |
+| EX/142/2023 | KABC010008562023 | Order Links |  | 22 links need resolving | eCourts Live |
+| EX/143/2023 | KABC010008582023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/143/2023 | KABC010008582023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/143/2023 | KABC010008582023 | Order Links |  | 20 links need resolving | eCourts Live |
+| EX/144/2023 | KABC010008592023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/144/2023 | KABC010008592023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/144/2023 | KABC010008592023 | Order Links |  | 13 links need resolving | eCourts Live |
+| EX/145/2023 | KABC010008602023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/145/2023 | KABC010008602023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/145/2023 | KABC010008602023 | Order Links |  | 15 links need resolving | eCourts Live |
+| EX/147/2023 | KABC010008832023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/147/2023 | KABC010008832023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/147/2023 | KABC010008832023 | Order Links |  | 10 links need resolving | eCourts Live |
+| EX/149/2023 | KABC010009252023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/149/2023 | KABC010009252023 | Sub Stage |  | REFERRED TO LOK ADALATH | HTML Snapshot |
+| EX/149/2023 | KABC010009252023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/151/2023 | KABC010009502023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/151/2023 | KABC010009502023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/151/2023 | KABC010009502023 | Order Links |  | 11 links need resolving | eCourts Live |
+| EX/152/2023 | KABC010009512023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/152/2023 | KABC010009512023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/152/2023 | KABC010009512023 | Order Links |  | 21 links need resolving | eCourts Live |
+| EX/153/2023 | KABC010009912023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/153/2023 | KABC010009912023 | Sub Stage |  | BALANCE BY | HTML Snapshot |
+| EX/153/2023 | KABC010009912023 | Order Links |  | 35 links need resolving | eCourts Live |
+| EX/155/2023 | KABC010009962023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/155/2023 | KABC010009962023 | Sub Stage |  | STEPS BY | HTML Snapshot |
+| EX/155/2023 | KABC010009962023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/156/2023 | KABC010010002023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/156/2023 | KABC010010002023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/156/2023 | KABC010010002023 | Order Links |  | 11 links need resolving | eCourts Live |
+| EX/157/2023 | KABC010010052023 | Registration Date |  | 10-01-2023 | HTML Snapshot |
+| EX/157/2023 | KABC010010052023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/157/2023 | KABC010010052023 | Order Links |  | 6 links need resolving | eCourts Live |
+| EX/158/2023 | KABC010010312023 | Registration Date |  | 11-01-2023 | HTML Snapshot |
+| EX/158/2023 | KABC010010312023 | Sub Stage |  | REFERRED TO LOK ADALATH | HTML Snapshot |
+| EX/158/2023 | KABC010010312023 | Order Links |  | 15 links need resolving | eCourts Live |
+| EX/159/2023 | KABC010011022023 | Registration Date |  | 12-01-2023 | HTML Snapshot |
+| EX/159/2023 | KABC010011022023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/159/2023 | KABC010011022023 | Order Links |  | 15 links need resolving | eCourts Live |
+| EX/161/2023 | KABC010006702023 | Registration Date |  | 12-01-2023 | HTML Snapshot |
+| EX/161/2023 | KABC010006702023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/161/2023 | KABC010006702023 | Order Links |  | 5 links need resolving | eCourts Live |
+| EX/162/2023 | KABC010011822023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/162/2023 | KABC010011822023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/162/2023 | KABC010011822023 | Order Links |  | 16 links need resolving | eCourts Live |
+| EX/163/2023 | KABC010011942023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/163/2023 | KABC010011942023 | Sub Stage |  | ISSUE CAUSE NOTICE | HTML Snapshot |
+| EX/163/2023 | KABC010011942023 | Order Links |  | 17 links need resolving | eCourts Live |
+| EX/164/2023 | KABC010011952023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/164/2023 | KABC010011952023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/164/2023 | KABC010011952023 | Order Links |  | 17 links need resolving | eCourts Live |
+| EX/165/2023 | KABC010012052023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/165/2023 | KABC010012052023 | Sub Stage |  | Uncontested--DECREE SATISFIED | HTML Snapshot |
+| EX/165/2023 | KABC010012052023 | Order Links |  | 4 links need resolving | eCourts Live |
+| EX/101/2023 | KABC010006822023 | Registration Date |  | 06-01-2023 | HTML Snapshot |
+| EX/101/2023 | KABC010006822023 | Sub Stage |  | REFERRED TO LOK ADALATH | HTML Snapshot |
+| EX/101/2023 | KABC010006822023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/166/2023 | KABC010012082023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/166/2023 | KABC010012082023 | Sub Stage |  | REFERRED TO LOK ADALATH | HTML Snapshot |
+| EX/166/2023 | KABC010012082023 | Order Links |  | 24 links need resolving | eCourts Live |
+| EX/167/2023 | KABC010012102023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/167/2023 | KABC010012102023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/167/2023 | KABC010012102023 | Order Links |  | 6 links need resolving | eCourts Live |
+| EX/168/2023 | KABC010012122023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/168/2023 | KABC010012122023 | Sub Stage |  | REFERRED TO LOK ADALATH | HTML Snapshot |
+| EX/168/2023 | KABC010012122023 | Order Links |  | 21 links need resolving | eCourts Live |
+| EX/169/2023 | KABC010012132023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/169/2023 | KABC010012132023 | Sub Stage |  | Uncontested--DECREE SATISFIED | HTML Snapshot |
+| EX/169/2023 | KABC010012132023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/171/2023 | KABC010012782023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/171/2023 | KABC010012782023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/171/2023 | KABC010012782023 | Order Links |  | 30 links need resolving | eCourts Live |
+| EX/173/2023 | KABC010012922023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/173/2023 | KABC010012922023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/173/2023 | KABC010012922023 | Order Links |  | 9 links need resolving | eCourts Live |
+| EX/174/2023 | KABC010012942023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/174/2023 | KABC010012942023 | Sub Stage |  | ISSUE MOVABLE WARRANT | HTML Snapshot |
+| EX/174/2023 | KABC010012942023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/175/2023 | KABC010012952023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/175/2023 | KABC010012952023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/175/2023 | KABC010012952023 | Order Links |  | 9 links need resolving | eCourts Live |
+| EX/176/2023 | KABC010012962023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/176/2023 | KABC010012962023 | Sub Stage |  | Uncontested--DISPOSED OTHERWISE | HTML Snapshot |
+| EX/176/2023 | KABC010012962023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/177/2023 | KABC010012972023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/177/2023 | KABC010012972023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/177/2023 | KABC010012972023 | Order Links |  | 9 links need resolving | eCourts Live |
+| EX/178/2023 | KABC010012992023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/178/2023 | KABC010012992023 | Sub Stage |  | REFERRED TO LOK ADALATH | HTML Snapshot |
+| EX/178/2023 | KABC010012992023 | Order Links |  | 11 links need resolving | eCourts Live |
+| EX/179/2023 | KABC010013002023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/179/2023 | KABC010013002023 | Sub Stage |  | Uncontested--DECREE SATISFIED | HTML Snapshot |
+| EX/179/2023 | KABC010013002023 | Order Links |  | 4 links need resolving | eCourts Live |
+| EX/180/2023 | KABC010013012023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/180/2023 | KABC010013012023 | Sub Stage |  | Uncontested--DECREE SATISFIED | HTML Snapshot |
+| EX/180/2023 | KABC010013012023 | Order Links |  | 4 links need resolving | eCourts Live |
+| EX/181/2023 | KABC010013022023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/181/2023 | KABC010013022023 | Sub Stage |  | ISSUE MOVABLE WARRANT | HTML Snapshot |
+| EX/181/2023 | KABC010013022023 | Order Links |  | 4 links need resolving | eCourts Live |
+| EX/182/2023 | KABC010013032023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/182/2023 | KABC010013032023 | Sub Stage |  | ISSUE MOVABLE WARRANT | HTML Snapshot |
+| EX/182/2023 | KABC010013032023 | Order Links |  | 5 links need resolving | eCourts Live |
+| EX/183/2023 | KABC010013042023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/183/2023 | KABC010013042023 | Sub Stage |  | ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES | HTML Snapshot |
+| EX/183/2023 | KABC010013042023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/184/2023 | KABC010013052023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/184/2023 | KABC010013052023 | Sub Stage |  | ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES | HTML Snapshot |
+| EX/184/2023 | KABC010013052023 | Order Links |  | 7 links need resolving | eCourts Live |
+| EX/185/2023 | KABC010013362023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/185/2023 | KABC010013362023 | Sub Stage |  | REFERRED TO LOK ADALATH | HTML Snapshot |
+| EX/185/2023 | KABC010013362023 | Order Links |  | 11 links need resolving | eCourts Live |
+| EX/186/2023 | KABC010013382023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/186/2023 | KABC010013382023 | Sub Stage |  | ISSUE ATTACHMENT WARRANT OF MOVABLES/IMMOVEABLES | HTML Snapshot |
+| EX/186/2023 | KABC010013382023 | Order Links |  | 3 links need resolving | eCourts Live |
+| EX/187/2023 | KABC010013392023 | Registration Date |  | 13-01-2023 | HTML Snapshot |
+| EX/187/2023 | KABC010013392023 | Sub Stage |  | STEPS | HTML Snapshot |
+| EX/187/2023 | KABC010013392023 | Order Links |  | 6 links need resolving | eCourts Live |

@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Microsoft Office temporary / lock files
+~$*
+
+# Large media files (exceeds GitHub 100MB limit)
+*.mp4
+*.mkv
+*.avi
+*.mov
+
+# Environment / local settings
+.env
+.venv/
+venv/
+ENV/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
