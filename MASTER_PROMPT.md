@@ -20,8 +20,11 @@ When a teammate or user initiates a conversation or tasks you with scraping:
    (Note: Year 2023 is already 100% completed with all 2,283 cases and 27,235 hearings fully archived)."
    ```
 3. **Queue Verification:** Upon receiving the target year:
+   * **For 2025:**
+     * Check for `disposed_2025.html` (pre-loaded in root with 1,017 cases; if missing, run `python fetch_roster.py --year 2025`).
+     * Read the active 2025 checkpoint (`pilot_output/checkpoint_2025.json`).
    * **For 2024:**
-     * Check for `disposed_2024.html` (pre-loaded in root with 1,555 cases; if missing, run `python fetch_2024_roster.py`).
+     * Check for `disposed_2024.html` (pre-loaded in root with 1,555 cases; if missing, run `python fetch_roster.py --year 2024`).
      * Read the active 2024 checkpoint (`pilot_output/checkpoint_2024.json`).
    * **For 2023:**
      * Check for `disposed_2023.html` (2,283 cases).
@@ -30,7 +33,7 @@ When a teammate or user initiates a conversation or tasks you with scraping:
      * **Total Cases in Roster:** `N`
      * **Already Checkpointed:** `M`
      * **Remaining Queue to Scrape:** `N - M`
-   * Confirm and launch execution (e.g. `python run_scraper.py --input disposed_2024.html`).
+   * Confirm and launch execution (e.g. `python run_scraper.py --input disposed_2025.html` or `python run_scraper.py --input disposed_2024.html`).
 
 ---
 
