@@ -78,6 +78,21 @@ python run_scraper.py
 
 ---
 
+## Working with an AI Agent (Recommended Workflow)
+
+If you are pair-programming with an AI coding assistant (such as **Google Antigravity**, **Cursor**, **Gemini**, **Claude Dev / Cline**, or **GitHub Copilot**):
+
+1. **Clone the repository** and open the `DAKSH` folder in your IDE.
+2. In your chat prompt, simply instruct your AI agent:
+   > *"Read `MASTER_PROMPT.md` and follow its instructions to begin our scraping run."*
+3. **What your AI agent will automatically do:**
+   * **Prompt you for the target year:** It will ask whether to scrape **2024** or **2025** (acknowledging 2023 is already 100% finished with all 2,283 cases archived).
+   * **Enforce Zero-Omission Pacing:** It will operate at a polite 4–7s pacing to ensure 100% of all hearing business text and authentic court orders are extracted without firewall bans.
+   * **Update Deliverables In-Place:** It will update `Consolidated_Executive_Petitions_<YEAR>_FINAL.*` (`.xlsx`, `.csv`, `.json`) directly without creating clutter.
+   * **Run the Integrity Audit:** Whenever scraping finishes or is paused, it will automatically run and display a complete mathematical audit (verifying 0 duplicates, 0 omissions, and 100% PDF binary validity).
+
+---
+
 ## Detailed Installation & Setup
 
 1. **Prerequisites:** Python 3.10+ installed on Windows, macOS, or Linux.
