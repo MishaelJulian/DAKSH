@@ -12,6 +12,7 @@ Can be run at ANY time (even while the scraper is running) to inspect progress.
 import csv
 import json
 import logging
+import re
 from pathlib import Path
 from typing import Any, Dict, List
 import openpyxl
@@ -74,20 +75,30 @@ COLUMNS_47 = [
 ]
 
 
-def export_preview():
-    if not CHECKPOINT_FILE.exists():
-        log.error("No checkpoint file found at %s", CHECKPOINT_FILE)
+def export_preview(checkpoint_path: Path = None, target_year: str = None):
+    ckpt_file = checkpoint_path or CHECKPOINT_FILE
+    if not ckpt_file.exists():
+        log.error("No checkpoint file found at %s", ckpt_file)
         return
 
-    with open(CHECKPOINT_FILE, "r", encoding="utf-8") as f:
+    with open(ckpt_file, "r", encoding="utf-8") as f:
         checkpoint = json.load(f)
+
+    if not checkpoint:
+        log.warning("Checkpoint %s is empty, nothing to export.", ckpt_file)
+        return
 
     all_rows = []
     all_json = []
+    detected_years = set()
     for cname, data in checkpoint.items():
         all_rows.extend(data.get("rows", []))
         j_obj = dict(data.get("json", {}))
         safe_case = str(cname).replace("/", "_")
+        m_yr = re.search(r"/(\d{4})$", str(cname))
+        if m_yr:
+            detected_years.add(m_yr.group(1))
+
         local_pdf = BASE_DIR / "pilot_output" / "orders" / f"{safe_case}_order_1.pdf"
         if local_pdf.exists() and "judicial_order" in j_obj:
             jo = dict(j_obj["judicial_order"])
@@ -97,10 +108,18 @@ def export_preview():
         all_json.append(j_obj)
 
     case_count = len(checkpoint)
-    log.info("Loaded %d cases (%d hearing rows) from checkpoint.", case_count, len(all_rows))
+    log.info("Loaded %d cases (%d hearing rows) from %s.", case_count, len(all_rows), ckpt_file.name)
 
-    # Master canonical file names that are always updated in-place
-    canonical_base = "Consolidated_Executive_Petitions_2023_FINAL"
+    # Determine canonical dataset name based on target_year or detected year
+    if not target_year:
+        if "2024" in detected_years:
+            target_year = "2024"
+        elif "2025" in detected_years:
+            target_year = "2025"
+        else:
+            target_year = "2023"
+
+    canonical_base = f"Consolidated_Executive_Petitions_{target_year}_FINAL"
     csv_file = BASE_DIR / f"{canonical_base}.csv"
     xlsx_file = BASE_DIR / f"{canonical_base}.xlsx"
     json_file = BASE_DIR / f"{canonical_base}.json"

@@ -11,5 +11,6 @@ pymupdf>=1.24.0
 # Excel & Data Export
 openpyxl>=3.1.0
 
-# Optional Image & OCR Preprocessing (for CAPTCHA solving if needed)
+# Optional Image & OCR Preprocessing (for automated CAPTCHA solving)
 Pillow>=10.0.0
+easyocr>=1.7.0

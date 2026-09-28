@@ -23,6 +23,7 @@ htmlcov/
 .venv/
 venv/
 ENV/
+*cookies_session.txt
 
 # OS generated files
 Thumbs.db

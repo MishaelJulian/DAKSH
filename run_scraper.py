@@ -405,11 +405,12 @@ def scrape_unified_case(client: s.EcourtsWorkerClient, c_tuple: tuple) -> tuple:
     return case_no, case_data, enriched_count
 
 
-def run_pipeline(input_html: Path, limit: int = 0):
+def run_pipeline(input_html: Path, limit: int = 0, checkpoint_file: Path = None, target_year: str = "2023"):
+    ckpt_path = checkpoint_file or CHECKPOINT_FILE
     ckpt = {}
-    if CHECKPOINT_FILE.exists():
+    if ckpt_path.exists():
         try:
-            with open(CHECKPOINT_FILE, "r", encoding="utf-8") as f:
+            with open(ckpt_path, "r", encoding="utf-8") as f:
                 ckpt = json.load(f)
         except Exception:
             ckpt = {}
@@ -423,11 +424,11 @@ def run_pipeline(input_html: Path, limit: int = 0):
     if limit > 0:
         queue = queue[:limit]
 
-    log.info(f"Roster Total: {len(roster)} | Checkpointed: {len(ckpt)} | Target Queue: {len(queue)}")
+    log.info(f"Target Year: {target_year} | Roster Total: {len(roster)} | Checkpointed: {len(ckpt)} | Target Queue: {len(queue)}")
     if not queue:
         log.info("All target cases are already in checkpoint! Regenerating final deliverables...")
-        exporter.export_preview()
-        generate_audit_report(ckpt, roster)
+        exporter.export_preview(checkpoint_path=ckpt_path, target_year=target_year)
+        generate_audit_report(ckpt, roster, target_year=target_year, checkpoint_file=ckpt_path)
         return
 
     client = s.get_thread_client()
@@ -448,10 +449,10 @@ def run_pipeline(input_html: Path, limit: int = 0):
             total_hearings_enriched += enriched_count
 
             # Atomic save to master checkpoint
-            tmp_ckpt = CHECKPOINT_FILE.with_suffix(".tmp")
+            tmp_ckpt = ckpt_path.with_suffix(".tmp")
             with open(tmp_ckpt, "w", encoding="utf-8") as f:
                 json.dump(ckpt, f, ensure_ascii=False)
-            tmp_ckpt.replace(CHECKPOINT_FILE)
+            tmp_ckpt.replace(ckpt_path)
 
             rate = round(cases_completed / (time.time() - t_start), 2)
             log.info(
@@ -469,17 +470,17 @@ def run_pipeline(input_html: Path, limit: int = 0):
 
             # Auto-export preview periodically
             if cases_completed % 25 == 0:
-                exporter.export_preview()
+                exporter.export_preview(checkpoint_path=ckpt_path, target_year=target_year)
 
     except KeyboardInterrupt:
         log.warning("Scraping paused by user. All progress is safely saved.")
     finally:
-        exporter.export_preview()
+        exporter.export_preview(checkpoint_path=ckpt_path, target_year=target_year)
         log.info("Pipeline finished/paused. Checkpoint contains %d cases.", len(ckpt))
-        generate_audit_report(ckpt, roster, time.time() - t_start)
+        generate_audit_report(ckpt, roster, time.time() - t_start, target_year=target_year, checkpoint_file=ckpt_path)
 
 
-def generate_audit_report(ckpt: dict, roster: list = None, duration_sec: float = 0.0):
+def generate_audit_report(ckpt: dict, roster: list = None, duration_sec: float = 0.0, target_year: str = "2023", checkpoint_file: Path = None):
     """Generates an exhaustive, mathematically verified audit report across all checkpointed records."""
     import fitz
     from collections import Counter
@@ -534,11 +535,12 @@ def generate_audit_report(ckpt: dict, roster: list = None, duration_sec: float =
     cov_pct = round((total_cases / roster_len) * 100, 1) if roster_len else 100.0
     enrich_pct = round((enriched_hearings / total_rows) * 100, 1) if total_rows else 0.0
     avg_speed = round(duration_sec / total_cases, 2) if total_cases and duration_sec > 0 else 0.0
+    active_ckpt = checkpoint_file or CHECKPOINT_FILE
 
     print("\n" + "=" * 80)
     print("                    DAKSH DATA QUALITY & INTEGRITY AUDIT REPORT")
     print("=" * 80)
-    print(f"Target Dataset Year          : 2023 (or active year)")
+    print(f"Target Dataset Year          : {target_year}")
     print(f"Total Cases in Target Roster : {roster_len}")
     print(f"Total Cases Checkpointed     : {total_cases} ({cov_pct}% coverage)")
     print(f"Total Hearing Rows Generated : {total_rows}")
@@ -571,22 +573,28 @@ def generate_audit_report(ckpt: dict, roster: list = None, duration_sec: float =
 
     print("\n5. ENGINE PERFORMANCE & DELIVERABLES:")
     if avg_speed > 0:
-        print(f"   - Average Throughput      : {avg_speed}s / case (< 2.0s target met)")
-    print(f"   - Master Checkpoint Path  : {CHECKPOINT_FILE.relative_to(BASE_DIR)}")
+        print(f"   - Average Throughput      : {avg_speed}s / case")
+    print(f"   - Master Checkpoint Path  : {active_ckpt.relative_to(BASE_DIR) if active_ckpt.is_relative_to(BASE_DIR) else active_ckpt.name}")
     print(f"   - Master Deliverables (Updated In-Place):")
-    print(f"       * Consolidated_Executive_Petitions_2023_FINAL.xlsx")
-    print(f"       * Consolidated_Executive_Petitions_2023_FINAL.csv")
-    print(f"       * Consolidated_Executive_Petitions_2023_FINAL.json")
+    print(f"       * Consolidated_Executive_Petitions_{target_year}_FINAL.xlsx")
+    print(f"       * Consolidated_Executive_Petitions_{target_year}_FINAL.csv")
+    print(f"       * Consolidated_Executive_Petitions_{target_year}_FINAL.json")
     print("=" * 80 + "\n")
 
 
 def main():
     parser = argparse.ArgumentParser(description="eCourts High-Performance Unified Scraper")
     parser.add_argument(
+        "--year",
+        type=str,
+        default="",
+        help="Target year (e.g. 2024, 2025, 2023). Auto-detected if omitted.",
+    )
+    parser.add_argument(
         "--input",
         type=str,
-        default="disposed_2311.html",
-        help="Path to search results HTML file containing case list (default: disposed_2311.html)",
+        default="",
+        help="Path to search results HTML file containing case list (e.g. disposed_2024.html)",
     )
     parser.add_argument(
         "--limit",
@@ -602,22 +610,55 @@ def main():
 
     args = parser.parse_args()
 
+    # Determine target year
+    target_year = args.year
+    input_str = args.input
+
+    if not input_str:
+        if Path("disposed_2024.html").exists():
+            input_str = "disposed_2024.html"
+            if not target_year:
+                target_year = "2024"
+        elif Path("disposed_2023.html").exists():
+            input_str = "disposed_2023.html"
+            if not target_year:
+                target_year = "2023"
+        elif Path("disposed_2311.html").exists():
+            input_str = "disposed_2311.html"
+            if not target_year:
+                target_year = "2023"
+        else:
+            input_str = "disposed_2024.html"
+
+    if not target_year:
+        if "2024" in input_str:
+            target_year = "2024"
+        elif "2025" in input_str:
+            target_year = "2025"
+        else:
+            target_year = "2023"
+
+    # Select year-specific checkpoint
+    if target_year == "2023":
+        checkpoint_file = BASE_DIR / "pilot_output" / "checkpoint_405_cases.json"
+    else:
+        checkpoint_file = BASE_DIR / "pilot_output" / f"checkpoint_{target_year}.json"
+
     if args.export_only:
-        log.info("Running export-only mode...")
-        exporter.export_preview()
-        if CHECKPOINT_FILE.exists():
-            with open(CHECKPOINT_FILE, "r", encoding="utf-8") as f:
-                generate_audit_report(json.load(f))
+        log.info(f"Running export-only mode for year {target_year}...")
+        exporter.export_preview(checkpoint_path=checkpoint_file, target_year=target_year)
+        if checkpoint_file.exists():
+            with open(checkpoint_file, "r", encoding="utf-8") as f:
+                generate_audit_report(json.load(f), target_year=target_year, checkpoint_file=checkpoint_file)
         return
 
-    in_path = BASE_DIR / args.input if not Path(args.input).is_absolute() else Path(args.input)
+    in_path = BASE_DIR / input_str if not Path(input_str).is_absolute() else Path(input_str)
     if not in_path.exists():
-        # Fallback to test_output default
         fallback = BASE_DIR / "test_output" / "EX_2_2023" / "case_details.html"
         if fallback.exists():
             in_path = fallback
 
-    run_pipeline(in_path, limit=args.limit)
+    run_pipeline(in_path, limit=args.limit, checkpoint_file=checkpoint_file, target_year=target_year)
 
 
 if __name__ == "__main__":

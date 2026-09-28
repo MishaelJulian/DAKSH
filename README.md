@@ -53,9 +53,12 @@ daksh/
 │   └── __init__.py
 ├── ecourts/                        # Core utilities & CAPTCHA preprocessing
 ├── pilot_output/                   # Output storage
-│   ├── checkpoint_405_cases.json   # Master atomic checkpoint
+│   ├── checkpoint_405_cases.json   # 2023 Master checkpoint (2,283 cases)
+│   ├── checkpoint_2024.json        # 2024 Master checkpoint
 │   └── orders/                     # Downloaded authentic court order PDFs
-├── disposed_2311.html              # Search results roster table (input source)
+├── disposed_2023.html              # 2023 Search results roster (2,283 cases)
+├── disposed_2024.html              # 2024 Search results roster (1,555 cases)
+├── fetch_2024_roster.py            # Automated eCourts roster generator
 ├── requirements.txt                # Python package dependencies
 └── README.md                       # Documentation
 ```
@@ -72,8 +75,11 @@ cd DAKSH
 # 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Start scraping with automated audit
-python run_scraper.py
+# 3. Start scraping 2024 cases with automated audit
+python run_scraper.py --input disposed_2024.html
+
+# Or run a test batch on 5 cases:
+python run_scraper.py --input disposed_2024.html --limit 5
 ```
 
 ---
