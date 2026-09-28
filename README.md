@@ -62,10 +62,33 @@ daksh/
 
 ---
 
-## Installation & Setup
+## Quick Start: Clone & Run
 
-1. **Prerequisites:** Python 3.10+ installed.
-2. **Clone / Download** this folder onto your machine.
+```bash
+# 1. Clone repository
+git clone https://github.com/MishaelJulian/DAKSH.git
+cd DAKSH
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Start scraping with automated audit
+python run_scraper.py
+```
+
+---
+
+## Detailed Installation & Setup
+
+1. **Prerequisites:** Python 3.10+ installed on Windows, macOS, or Linux.
+2. **Virtual Environment (Optional but recommended):**
+   ```bash
+   python -m venv venv
+   # On Windows:
+   venv\Scripts\activate
+   # On macOS/Linux:
+   source venv/bin/activate
+   ```
 3. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
