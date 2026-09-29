@@ -192,7 +192,7 @@ class EcourtsWorkerClient:
 
     def __init__(self, worker_id: int):
         self.worker_id = worker_id
-        self.session = requests.Session(impersonate="chrome120")
+        self.session = requests.Session(impersonate="chrome120", verify=False)
         self.app_token = ""
         self.delimeter = "ashhgjhre45"
         self.custom_header = "Hiiutry546"
@@ -200,7 +200,7 @@ class EcourtsWorkerClient:
 
     def _init_handshake(self) -> None:
         try:
-            self.session = requests.Session(impersonate="chrome120")
+            self.session = requests.Session(impersonate="chrome120", verify=False)
             r_home = self.session.get("https://services.ecourts.gov.in/ecourtindia_v6/?p=casestatus/index", timeout=15)
             m_token = re.search(r'id=["\']app_token["\'][^>]*value=["\']([^"\']+)', r_home.text)
             if m_token:
