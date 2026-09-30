@@ -30,3 +30,7 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 .DS_Store
+
+# Ignore downloaded court orders to prevent repository bloat
+pilot_output/orders/*.pdf
+pilot_output/*.tmp
